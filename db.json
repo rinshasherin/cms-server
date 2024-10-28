@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "Manu",
+      "photoUrl": "https://img.lovepik.com/element/45001/3052.png_860.png",
+      "mobile": "9596236875",
+      "email": "manu2@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Rahul Raj",
+      "photoUrl": "https://www.pngall.com/wp-content/uploads/5/User-Profile-PNG.png",
+      "mobile": "7592003615",
+      "email": "rahul@gmail.com",
+      "id": 3
+    }
+  ]
+}
